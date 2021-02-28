@@ -18,3 +18,10 @@ Find the average <br/>
 Calculate the time quantum as 0.85Xaverage<br/>
 6.Now for the processes in queue,begin the execution if the burst time is less than the time quantum.If some process arrives within this period push it into the waiting queue.<br/>
 7.Repeat the process form 5 to 6 till the waiting queue is not completely empty.<br/>
+
+# References:
+
+<br/>
+1.A new Improved Round Robin-Based Scheduling Algorithm-A comparative Analysis (DOI:10.1109/ICCISci.2019.8716476)(LINK:https://ieeexplore.ieee.org/document/8716476)
+2.Smart Round Robin CPU Scheduling Algorithm For Operating Systems (DOI: 10.1109/ICEECCOT46775.2019.9114602)(LINK:https://ieeexplore.ieee.org/document/9114602)
+3.Improved Round Robin CPU scheduling algorithm: Round Robin, Shortest Job First and priority algorithm coupled to increase throughput and decrease waiting time and turnaround time(DOI: 10.1109/ICGTSPICC.2016.7955294)(LINK:https://ieeexplore.ieee.org/document/7955294)
