@@ -22,6 +22,6 @@ Calculate the time quantum as 0.85Xaverage<br/>
 # References:
 
 <br/>
-1.A new Improved Round Robin-Based Scheduling Algorithm-A comparative Analysis (DOI:10.1109/ICCISci.2019.8716476)(LINK:https://ieeexplore.ieee.org/document/8716476)
-2.Smart Round Robin CPU Scheduling Algorithm For Operating Systems (DOI: 10.1109/ICEECCOT46775.2019.9114602)(LINK:https://ieeexplore.ieee.org/document/9114602)
+1.A new Improved Round Robin-Based Scheduling Algorithm-A comparative Analysis (DOI:10.1109/ICCISci.2019.8716476)(LINK:https://ieeexplore.ieee.org/document/8716476)<br/>
+2.Smart Round Robin CPU Scheduling Algorithm For Operating Systems (DOI: 10.1109/ICEECCOT46775.2019.9114602)(LINK:https://ieeexplore.ieee.org/document/9114602)<br/>
 3.Improved Round Robin CPU scheduling algorithm: Round Robin, Shortest Job First and priority algorithm coupled to increase throughput and decrease waiting time and turnaround time(DOI: 10.1109/ICGTSPICC.2016.7955294)(LINK:https://ieeexplore.ieee.org/document/7955294)
