@@ -4,11 +4,6 @@
 
 using namespace std;
 
-/*bool compare_burst_times(int burst_time_a, int burst_time_b) 
-{ 
-    return (burst_time_a< burst_time_b); 
-} */
-
 //comparator function
 //compares two pairs according to the arrival time first and then according to their burst times
 struct compare_burst_times{
